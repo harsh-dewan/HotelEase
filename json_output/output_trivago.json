@@ -1,0 +1,18 @@
+{
+ "Hotel 45" : {"hotelName":"Fairmont The Queen Elizabeth","cost":"197","hotelRating":"8.5"},
+ "Hotel 46" : {"hotelName":"Hotel Bonaventure Montreal","cost":"161","hotelRating":"8.6"},
+ "Hotel 47" : {"hotelName":"Hilton Garden Inn Montreal Centre-Ville","cost":"124","hotelRating":"8.6"},
+ "Hotel 48" : {"hotelName":"DoubleTree by Hilton Montreal","cost":"154","hotelRating":"8.5"},
+ "Hotel 49" : {"hotelName":"Hôtel Ruby Foo\u0027s","cost":"101","hotelRating":"7.8"},
+ "Hotel 50" : {"hotelName":"Crowne Plaza Montreal Airport","cost":"131","hotelRating":"7.2"},
+ "Hotel 51" : {"hotelName":"Hotel Faubourg Montreal","cost":"134","hotelRating":"8.0"},
+ "Hotel 52" : {"hotelName":"Le Nouvel Hôtel \u0026 Spa","cost":"97","hotelRating":"8.6"},
+ "Hotel 53" : {"hotelName":"Novotel Montréal Centre","cost":"141","hotelRating":"8.8"},
+ "Hotel 54" : {"hotelName":"Sheraton Montreal Airport","cost":"173","hotelRating":"8.8"},
+ "Hotel 55" : {"hotelName":"Château Versailles","cost":"133","hotelRating":"8.0"},
+ "Hotel 56" : {"hotelName":"Embassy Suites by Hilton Montreal","cost":"163","hotelRating":"8.2"},
+ "Hotel 57" : {"hotelName":"Le Centre Sheraton Montreal Hotel","cost":"178","hotelRating":"8.8"},
+ "Hotel 58" : {"hotelName":"Montreal Marriott Chateau Champlain","cost":"159","hotelRating":"9.0"},
+ "Hotel 59" : {"hotelName":"Residence Inn by Marriott Montreal Downtown","cost":"218","hotelRating":"8.8"},
+ "Hotel 60" : {"hotelName":"Best Western Plus Montreal Downtown-Hotel Europa","cost":"117","hotelRating":"8.0"}
+}

@@ -1,0 +1,87 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>uwindsor.acc</groupId>
+  <artifactId>hotel_price_analysis</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>Hotel Price Analysis Project</name>
+  <description>ACC Project for Hotel Price Analysis</description>
+  <dependencies>
+	        <dependency>
+			    <groupId>org.jsoup</groupId>
+			    <artifactId>jsoup</artifactId>
+			    <version>1.16.2</version>
+			</dependency>
+	   
+	   		<dependency>
+			    <groupId>org.seleniumhq.selenium</groupId>
+			    <artifactId>selenium-java</artifactId>
+			    <version>4.15.0</version>
+			</dependency>
+			<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-chrome-driver -->
+			<dependency>
+			    <groupId>org.seleniumhq.selenium</groupId>
+			    <artifactId>selenium-chrome-driver</artifactId>
+			    <version>4.15.0</version>
+			</dependency>
+			
+			<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-api -->
+			<dependency>
+			    <groupId>org.seleniumhq.selenium</groupId>
+			    <artifactId>selenium-api</artifactId>
+			    <version>4.15.0</version>
+			</dependency>
+			
+			<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-support -->
+			<dependency>
+			    <groupId>org.seleniumhq.selenium</groupId>
+			    <artifactId>selenium-support</artifactId>
+			    <version>4.15.0</version>
+			</dependency>
+			
+			<!-- https://mvnrepository.com/artifact/junit/junit -->
+			<dependency>
+			    <groupId>junit</groupId>
+			    <artifactId>junit</artifactId>
+			    <version>4.13.2</version>
+			    <scope>test</scope>
+			</dependency>
+			
+			
+			<!-- https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml-schemas -->
+			<dependency>
+			    <groupId>org.apache.poi</groupId>
+			    <artifactId>poi-ooxml-schemas</artifactId>
+			    <version>4.1.2</version>
+			</dependency>
+			
+			<!-- https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml -->
+			<dependency>
+			    <groupId>org.apache.poi</groupId>
+			    <artifactId>poi-ooxml</artifactId>
+			    <version>5.2.4</version>
+			</dependency>
+			
+			
+			<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-server -->
+			<dependency>
+			    <groupId>org.seleniumhq.selenium</groupId>
+			    <artifactId>selenium-server</artifactId>
+			    <version>4.0.0-alpha-2</version>
+			</dependency>
+			
+			<!-- https://mvnrepository.com/artifact/com.opencsv/opencsv -->
+			<dependency>
+			    <groupId>com.opencsv</groupId>
+			    <artifactId>opencsv</artifactId>
+			    <version>5.8</version>
+			</dependency>
+			
+			<!-- https://mvnrepository.com/artifact/com.google.code.gson/gson -->
+			<dependency>
+			    <groupId>com.google.code.gson</groupId>
+			    <artifactId>gson</artifactId>
+			    <version>2.10.1</version>
+			</dependency>
+
+  </dependencies>
+</project>

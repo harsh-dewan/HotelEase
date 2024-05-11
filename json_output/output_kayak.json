@@ -1,0 +1,21 @@
+{
+ "Hotel 25" : {"hotelName":"Sheraton Vancouver Wall Centre","cost":"2144","hotelRating":"8.4"},
+ "Hotel 26" : {"hotelName":"Hotel Belmont Vancouver MGallery","cost":"1922","hotelRating":"8.1"},
+ "Hotel 27" : {"hotelName":"The Douglas Autograph Collection","cost":"4046","hotelRating":"8.3"},
+ "Hotel 28" : {"hotelName":"Metropolitan Hotel Vancouver","cost":"2501","hotelRating":"8.6"},
+ "Hotel 29" : {"hotelName":"JW Marriott Parq Vancouver","cost":"4528","hotelRating":"8.5"},
+ "Hotel 30" : {"hotelName":"The Westin Bayshore, Vancouver","cost":"2807","hotelRating":"8.5"},
+ "Hotel 31" : {"hotelName":"Vancouver Marriott Pinnacle Downtown Hotel","cost":"2670","hotelRating":"8.1"},
+ "Hotel 32" : {"hotelName":"Residence Inn by Marriott Vancouver Downtown","cost":"2477","hotelRating":"8.6"},
+ "Hotel 33" : {"hotelName":"The Sutton Place Hotel Vancouver","cost":"2824","hotelRating":"8.4"},
+ "Hotel 34" : {"hotelName":"Delta Hotels by Marriott Vancouver Downtown Suites","cost":"2694","hotelRating":"8.5"},
+ "Hotel 35" : {"hotelName":"Azur Legacy Collection Hotel","cost":"3259","hotelRating":"7.9"},
+ "Hotel 36" : {"hotelName":"Delta Hotels by Marriott Burnaby Conference Centre","cost":"2294","hotelRating":"8.0"},
+ "Hotel 37" : {"hotelName":"The Listel Hotel Vancouver","cost":"2270","hotelRating":"8.3"},
+ "Hotel 38" : {"hotelName":"Executive Hotel Le Soleil","cost":"2589","hotelRating":"8.4"},
+ "Hotel 39" : {"hotelName":"Blue Horizon Hotel","cost":"2091","hotelRating":"8.7"},
+ "Hotel 40" : {"hotelName":"La Grande Residence Vancouver at The Sutton Place Hotel","cost":"3127","hotelRating":"8.1"},
+ "Hotel 41" : {"hotelName":"Hyatt Regency Vancouver","cost":"2549","hotelRating":"8.4"},
+ "Hotel 42" : {"hotelName":"Level Vancouver Yaletown - Seymour","cost":"2874","hotelRating":"8.7"},
+ "Hotel 43" : {"hotelName":"Fairmont Vancouver Airport - Gold Experience","cost":"4056","hotelRating":"8.6"}
+}
