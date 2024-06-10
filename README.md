@@ -1,5 +1,5 @@
 # HotelEase
-**HotelEase Project **
+**HotelEase Project**
 Technology: Java, JSoup, Selenium
 
 Description: HotelEase is a hotel recommendation system designed to help users make informed travel decisions by evaluating hotel options based on amenities, location, and public reviews. The project involved creating a comprehensive and engaging dashboard that aggregates hotel data from multiple websites.
